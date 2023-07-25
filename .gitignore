@@ -1,0 +1,15 @@
+
+assets/.DS_Store
+.DS_Store
+/.idea/.gitignore
+/.idea/jsLibraryMappings.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/sungole-udi-sqlite3.iml
+/.idea/vcs.xml
+/node_modules/
+/package-lock.json
+/test/logs/
+/logs/
+.idea/gs1-parser.iml
+.idea/workspace.xml
